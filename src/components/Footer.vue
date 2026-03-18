@@ -1,6 +1,13 @@
 <script></script>
 
-<template></template>
+<template>
+  <footer>
+    <p>
+      Learn more about me at
+      <a target="_blank" href="https://vuejs.org/">vuejs.org</a>
+    </p>
+  </footer>
+</template>
 
 <style scoped>
 footer {
@@ -8,7 +15,7 @@ footer {
   font-size: 0.8rem;
 }
 
-footer a {
+a {
   color: #40b883;
 }
 </style>
