@@ -1,14 +1,15 @@
 <script setup>
 import { ref } from "vue";
-
-const href = ref("https://vuejs.org");
 </script>
 
 <template>
   <footer>
     <p>
       Learn more about me at
-      <a target="_blank" :href>vuejs.org</a>
+      <a target="_blank" href="https://icons8.com/icon/rY6agKizO9eb/vue-js"
+        >Vue Js</a
+      >
+      icon by <a target="_blank" href="https://icons8.com">Icons8</a>
     </p>
   </footer>
 </template>
